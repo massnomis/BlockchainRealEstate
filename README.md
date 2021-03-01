@@ -2,6 +2,7 @@
 I am working on a few papers about the effects of Blockchain and Real estate. Give it a read!
 
 Includes:
+
 Current Paper (very large, covers most topics)
 
 A presentation I gave on the topic
