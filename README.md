@@ -11,7 +11,7 @@ Some raw data
 
 Academic Articles on DEFI I like
 
-
+https://gitcoin.co/grants/2053/blockchain-and-real-estate-a-new-look-at-an-old-in
 
 I am still figuring out how to manage the github, but I think I am going to use the wiki and the projects tabs to automate workflow and provide descriptions.
 
