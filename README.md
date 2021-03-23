@@ -1,6 +1,15 @@
 # BlockchainandRealEstate
 I am working on a few papers about the effects of Blockchain and Real estate. Give it a read!
 
+UPDATE:
+
+Here is a video of the recording of my presentation at ARES (American Real Estate Society)
+https://photos.app.goo.gl/Em4VWQ29ndRUfS4F7
+
+I made some great connections at the conferance and I got invited to speak at ERES (European Real Estate Society)
+
+I cant wait!!! Thank you all!
+
 Includes:
 
 Current Paper (very large, covers most topics)
